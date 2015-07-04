@@ -1,0 +1,25 @@
+{
+  "name": "platformer-game",
+  "version": "0.0.1",
+  "description": "Platformer Game",
+  "main": "js/game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjbianco/platformer-game.git"
+  },
+  "keywords": [
+    "platformer"
+  ],
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjbianco/platformer-game/issues"
+  },
+  "homepage": "https://github.com/gjbianco/platformer-game",
+  "dependencies": {
+    "phaser": "^2.3.0"
+  }
+}
